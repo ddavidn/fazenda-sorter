@@ -5,8 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Fazenda Sorter (Alpha)</title>
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true">
-        <script src="geolocate.js">
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+        <script src="geolocate.js"></script>
     </head>
     <body>
         <h1>Sort Test</h1>
