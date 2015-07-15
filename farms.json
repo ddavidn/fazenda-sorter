@@ -1,0 +1,16 @@
+{
+    "farms": [
+        {
+            "farm_name": "Chimaltenango, Guatemala",
+            "coords": "14.678053, -90.884475"
+        },
+        {
+            "farm_name": "Ruiru, Kenya",
+            "coords": "-1.145770, 36.979925"
+        },
+        {
+            "farm_name": "Narino, Columbia",
+            "coords": "1.292461, -77.349312"
+        }
+    ]
+}
